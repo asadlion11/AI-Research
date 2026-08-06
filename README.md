@@ -6,15 +6,17 @@ Notes and materials for a self-study path from software development to AI resear
 
 **The path:** ML Engineer → Research Engineer → AI Researcher
 
+**Duration:** no fixed timeline — more hours = faster.
+
 ## Roadmap overview
 
 Full details: [`Roadmap/AI_Research_Roadmap.pdf`](Roadmap/AI_Research_Roadmap.pdf)
 
-| Phase | Focus | Duration |
-| --- | --- | --- |
-| 1 · Engineer Foundations | Math → Python data stack → Machine Learning → Deep Learning → Projects. Ends job-ready as an ML Engineer. | ≈ 9–12 months |
-| 2 · Research Depth | Rigorous math → Transformers & LLMs → reading and reproducing research papers. | ≈ 6–9 months |
-| 3 · Research Practice | Original experiments → writing & publishing → research community contributions. | Ongoing |
+| Phase | Focus |
+| --- | --- |
+| 1 · Engineer Foundations | Math → Python data stack → Machine Learning → Deep Learning → Projects. Ends job-ready as an ML Engineer. |
+| 2 · Research Depth | Rigorous math → Transformers & LLMs → reading and reproducing research papers. |
+| 3 · Research Practice | Original experiments → writing & publishing → research community contributions. |
 
 ### The four golden rules
 
@@ -63,6 +65,7 @@ Lessons/     notes taken while working through each resource
 ### Lessons
 
 - **Linear Algebra — 3Blue1Brown, *Essence of Linear Algebra*** — chapter notes for Ch01–Ch09 and Ch13–Ch16, plus a combined notebook. Chapters 10–12 (cross products, Cramer's rule) are skipped per the roadmap.
+- **Calculus — 3Blue1Brown, *Essence of Calculus*** — chapter notes for Ch01–Ch07, plus a combined notebook.
 
 ## Milestone checklist
 
